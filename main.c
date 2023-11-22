@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#define FULL_DEGREE 360
 
 void quadrant(short int angle);
-
-#define FULL_DEGREE 360
 
 int main()
 {
